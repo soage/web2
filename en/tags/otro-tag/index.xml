@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Otro tag on José Carlos</title>
-    <link>/en/tags/otro-tag/</link>
+    <link>web2/en/tags/otro-tag/</link>
     <description>Recent content in Otro tag on José Carlos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/otro-tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="web2/en/tags/otro-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post english</title>
-      <link>/en/posts/post-prueba/</link>
+      <link>web2/en/posts/post-prueba/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/en/posts/post-prueba/</guid>
+      <guid>web2/en/posts/post-prueba/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
     </item>

@@ -3,432 +3,432 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/articulos/creating-a-new-theme/</loc>
+    <loc>web2/articulos/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/articulos/migrate-from-jekyll/</loc>
+    <loc>web2/articulos/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/articulos/</loc>
+    <loc>web2/articulos/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="web2/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/articulos/"
+                href="web2/articulos/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>web2/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="web2/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/"
+                href="web2/categories/"
                 />
   </url>
   
   <url>
-    <loc>/articulos/2020-12-01-r-rmarkdown/</loc>
+    <loc>web2/articulos/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
+    <loc>web2/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/plot/"
+                href="web2/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/plot/"
+                href="web2/"
                 />
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>web2/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/r/"
+                href="web2/en/tags/plot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/r/"
+                href="web2/tags/plot/"
                 />
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>web2/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/r-markdown/"
+                href="web2/en/categories/r/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/r-markdown/"
+                href="web2/categories/r/"
                 />
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>web2/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/regression/"
+                href="web2/en/tags/r-markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/regression/"
+                href="web2/tags/r-markdown/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>web2/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="web2/en/tags/regression/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="web2/tags/regression/"
                 />
   </url>
   
   <url>
-    <loc>/tags/otro-tag/</loc>
+    <loc>web2/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="web2/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="web2/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>web2/tags/otro-tag/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/otro-tag/"
+                href="web2/en/tags/otro-tag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/otro-tag/"
+                href="web2/tags/otro-tag/"
                 />
   </url>
   
   <url>
-    <loc>/articulos/post-prueba/</loc>
+    <loc>web2/articulos/post-prueba/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/r/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/rmarkdown/</loc>
+    <loc>web2/tags/r/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/rmarkdown/"
+                href="web2/en/tags/r/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/rmarkdown/"
+                href="web2/tags/r/"
                 />
   </url>
   
   <url>
-    <loc>/portafolio/dera/</loc>
+    <loc>web2/tags/rmarkdown/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="web2/en/tags/rmarkdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="web2/tags/rmarkdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>web2/portafolio/dera/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portafolio/</loc>
+    <loc>web2/portafolio/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portafolio/hyde-hyde/</loc>
+    <loc>web2/portafolio/hyde-hyde/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portafolio/laramod/</loc>
+    <loc>web2/portafolio/laramod/</loc>
     <lastmod>2018-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
+    <loc>web2/tags/css/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/css/"
+                href="web2/en/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/css/"
+                href="web2/tags/css/"
                 />
   </url>
   
   <url>
-    <loc>/categories/development/</loc>
+    <loc>web2/categories/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/development/"
+                href="web2/en/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/development/"
+                href="web2/categories/development/"
                 />
   </url>
   
   <url>
-    <loc>/tags/html/</loc>
+    <loc>web2/tags/html/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/html/"
+                href="web2/en/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/html/"
+                href="web2/tags/html/"
                 />
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>web2/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/hugo/"
+                href="web2/en/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/hugo/"
+                href="web2/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>/categories/hugo/</loc>
+    <loc>web2/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/hugo/"
+                href="web2/en/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/hugo/"
+                href="web2/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>/tags/theme/</loc>
+    <loc>web2/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/theme/"
+                href="web2/en/tags/theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/theme/"
+                href="web2/tags/theme/"
                 />
   </url>
   
   <url>
-    <loc>/acerca/</loc>
+    <loc>web2/acerca/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/articulos/goisforlovers/</loc>
+    <loc>web2/articulos/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/development/"
-                />
-  </url>
-  
-  <url>
-    <loc>/articulos/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
+    <loc>web2/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/go/"
+                href="web2/en/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/go/"
+                href="web2/tags/development/"
                 />
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>web2/articulos/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>web2/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/golang/"
+                href="web2/en/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/golang/"
+                href="web2/tags/go/"
                 />
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>web2/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/golang/"
+                href="web2/en/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/golang/"
+                href="web2/tags/golang/"
                 />
   </url>
   
   <url>
-    <loc>/tags/templates/</loc>
+    <loc>web2/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/templates/"
+                href="web2/en/categories/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/templates/"
+                href="web2/categories/golang/"
                 />
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>web2/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/themes/"
+                href="web2/en/tags/templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/themes/"
+                href="web2/tags/templates/"
                 />
   </url>
   
   <url>
-    <loc>/tags/jekyll/</loc>
+    <loc>web2/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="web2/en/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="web2/tags/themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>web2/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/jekyll/"
+                href="web2/en/tags/jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/jekyll/"
+                href="web2/tags/jekyll/"
                 />
   </url>
   
   <url>
-    <loc>/tags/migration/</loc>
+    <loc>web2/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/migration/"
+                href="web2/en/tags/migration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/migration/"
+                href="web2/tags/migration/"
                 />
   </url>
   
